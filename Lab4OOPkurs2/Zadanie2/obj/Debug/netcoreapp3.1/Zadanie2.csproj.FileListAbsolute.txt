@@ -1,0 +1,14 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.runtimeconfig.dev.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab4\Lab4OOPkurs2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.genruntimeconfig.cache
